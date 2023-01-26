@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 075851840367be44aa4ca9d0affe6989
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1149248004428148950
+    second: main-character@pick-up-sheet_0
+  - first:
+      213: -2480646409102002123
+    second: main-character@pick-up-sheet_1
+  - first:
+      213: 141894431370434132
+    second: main-character@pick-up-sheet_2
+  - first:
+      213: -6587340279416128208
+    second: main-character@pick-up-sheet_3
+  - first:
+      213: 5499758996164555522
+    second: main-character@pick-up-sheet_4
+  - first:
+      213: -6719364167745764678
+    second: main-character@pick-up-sheet_5
+  - first:
+      213: 261809647994704518
+    second: main-character@pick-up-sheet_6
+  - first:
+      213: 1297218033999618499
+    second: main-character@pick-up-sheet_7
+  - first:
+      213: 7193698624026025103
+    second: main-character@pick-up-sheet_8
+  - first:
+      213: -7819281529291649434
+    second: main-character@pick-up-sheet_9
+  - first:
+      213: 3397410110776200798
+    second: main-character@pick-up-sheet_10
+  - first:
+      213: -2037479258371855795
+    second: main-character@pick-up-sheet_11
+  - first:
+      213: -5822415150649773501
+    second: main-character@pick-up-sheet_12
+  - first:
+      213: -5075559473200839030
+    second: main-character@pick-up-sheet_13
+  - first:
+      213: -5635464766523809155
+    second: main-character@pick-up-sheet_14
+  - first:
+      213: -7832867909539303094
+    second: main-character@pick-up-sheet_15
+  - first:
+      213: 3155750785591233077
+    second: main-character@pick-up-sheet_16
+  - first:
+      213: -6290334883468659711
+    second: main-character@pick-up-sheet_17
+  - first:
+      213: -6389844367186629015
+    second: main-character@pick-up-sheet_18
+  - first:
+      213: 8912248493736369740
+    second: main-character@pick-up-sheet_19
+  - first:
+      213: 4796243490475884081
+    second: main-character@pick-up-sheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d034c698f2f2ff00800000000000000
+      internalID: 1149248004428148950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 128
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5387024eb39f29dd0800000000000000
+      internalID: -2480646409102002123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 128
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d079cb3c18f100800000000000000
+      internalID: 141894431370434132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 128
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d77c6cae01594a0800000000000000
+      internalID: -6587340279416128208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 128
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203b5a40ba1135c40800000000000000
+      internalID: 5499758996164555522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 128
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28601e3e500c2a0800000000000000
+      internalID: -6719364167745764678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 128
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6829e7bdc7222a300800000000000000
+      internalID: 261809647994704518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c127c0dde4a00210800000000000000
+      internalID: 1297218033999618499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c9942e8c625d360800000000000000
+      internalID: 7193698624026025103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e4ccf90e45c7390800000000000000
+      internalID: -7819281529291649434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec229de76062f20800000000000000
+      internalID: 3397410110776200798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae487d86b69b3e0800000000000000
+      internalID: -2037479258371855795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342faaad440a23fa0800000000000000
+      internalID: -5822415150649773501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ce73fc8dff89b0800000000000000
+      internalID: -5075559473200839030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 64
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726e1f17aecac1b0800000000000000
+      internalID: -5635464766523809155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 64
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a417a57f2201c4390800000000000000
+      internalID: -7832867909539303094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 64
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a43de9e9a7bcb20800000000000000
+      internalID: 3155750785591233077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 64
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1043a9840cd34b8a0800000000000000
+      internalID: -6290334883468659711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 64
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6fc32766b257a0800000000000000
+      internalID: -6389844367186629015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e9a2339caaeab70800000000000000
+      internalID: 8912248493736369740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@pick-up-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e38120b0eaf8240800000000000000
+      internalID: 4796243490475884081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

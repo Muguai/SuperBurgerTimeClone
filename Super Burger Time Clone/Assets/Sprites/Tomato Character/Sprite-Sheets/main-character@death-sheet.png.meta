@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: 1d03f751dc4257a4f919a32b33f1eade
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1009603254565949271
+    second: main-character@death-sheet_0
+  - first:
+      213: 3980334880777864286
+    second: main-character@death-sheet_1
+  - first:
+      213: -8389618294594390886
+    second: main-character@death-sheet_2
+  - first:
+      213: -4653804363041472631
+    second: main-character@death-sheet_3
+  - first:
+      213: -1158944482525847955
+    second: main-character@death-sheet_4
+  - first:
+      213: -2142654678101212717
+    second: main-character@death-sheet_5
+  - first:
+      213: -72775698099178978
+    second: main-character@death-sheet_6
+  - first:
+      213: -1752774846595074059
+    second: main-character@death-sheet_7
+  - first:
+      213: 332347551275436549
+    second: main-character@death-sheet_8
+  - first:
+      213: -7522325893409299008
+    second: main-character@death-sheet_9
+  - first:
+      213: 2841671784179261702
+    second: main-character@death-sheet_10
+  - first:
+      213: 7066657563489468580
+    second: main-character@death-sheet_11
+  - first:
+      213: 352482715560295052
+    second: main-character@death-sheet_12
+  - first:
+      213: -2847361499469111283
+    second: main-character@death-sheet_13
+  - first:
+      213: 3550513849692342273
+    second: main-character@death-sheet_14
+  - first:
+      213: -4770773390539507512
+    second: main-character@death-sheet_15
+  - first:
+      213: 674184912265622208
+    second: main-character@death-sheet_16
+  - first:
+      213: -5446859085993550488
+    second: main-character@death-sheet_17
+  - first:
+      213: -8083239924576116411
+    second: main-character@death-sheet_18
+  - first:
+      213: 4785515966785076713
+    second: main-character@death-sheet_19
+  - first:
+      213: -7888140507206093168
+    second: main-character@death-sheet_20
+  - first:
+      213: 1219269503228263647
+    second: main-character@death-sheet_21
+  - first:
+      213: 3509216910472682304
+    second: main-character@death-sheet_22
+  - first:
+      213: -2592937101812410872
+    second: main-character@death-sheet_23
+  - first:
+      213: 2972075221078720640
+    second: main-character@death-sheet_24
+  - first:
+      213: -5358986710644331107
+    second: main-character@death-sheet_25
+  - first:
+      213: 1326699775655715113
+    second: main-character@death-sheet_26
+  - first:
+      213: 4863362951542225544
+    second: main-character@death-sheet_27
+  - first:
+      213: -8648949657794481824
+    second: main-character@death-sheet_28
+  - first:
+      213: 5163631101633756283
+    second: main-character@death-sheet_29
+  - first:
+      213: 4347592288817809946
+    second: main-character@death-sheet_30
+  - first:
+      213: 99425832376579298
+    second: main-character@death-sheet_31
+  - first:
+      213: 4161974764629552653
+    second: main-character@death-sheet_32
+  - first:
+      213: 2686585173984748624
+    second: main-character@death-sheet_33
+  - first:
+      213: 6218071619355613115
+    second: main-character@death-sheet_34
+  - first:
+      213: -6521129605221752059
+    second: main-character@death-sheet_35
+  - first:
+      213: -9013193251375677018
+    second: main-character@death-sheet_36
+  - first:
+      213: -7143671165501609149
+    second: main-character@death-sheet_37
+  - first:
+      213: 7520804433607646194
+    second: main-character@death-sheet_38
+  - first:
+      213: 7510230502626752175
+    second: main-character@death-sheet_39
+  - first:
+      213: 7593995889779756934
+    second: main-character@death-sheet_40
+  - first:
+      213: -1739629268468378026
+    second: main-character@death-sheet_41
+  - first:
+      213: 6988570375285020190
+    second: main-character@death-sheet_42
+  - first:
+      213: -7506796800552742847
+    second: main-character@death-sheet_43
+  - first:
+      213: -3120126087161836743
+    second: main-character@death-sheet_44
+  - first:
+      213: 2557431615645859319
+    second: main-character@death-sheet_45
+  - first:
+      213: -2742697752586404555
+    second: main-character@death-sheet_46
+  - first:
+      213: 6666739866389876902
+    second: main-character@death-sheet_47
+  - first:
+      213: 274678308091688312
+    second: main-character@death-sheet_48
+  - first:
+      213: 8948008886278223124
+    second: main-character@death-sheet_49
+  - first:
+      213: -2669507000439740115
+    second: main-character@death-sheet_50
+  - first:
+      213: 5097672271117600551
+    second: main-character@death-sheet_51
+  - first:
+      213: -6424398010205633356
+    second: main-character@death-sheet_52
+  - first:
+      213: 3585155758429028493
+    second: main-character@death-sheet_53
+  - first:
+      213: -4638926812773373241
+    second: main-character@death-sheet_54
+  - first:
+      213: 2207256410974086487
+    second: main-character@death-sheet_55
+  - first:
+      213: 1674118018780246303
+    second: main-character@death-sheet_56
+  - first:
+      213: -8909983328301121663
+    second: main-character@death-sheet_57
+  - first:
+      213: -2097259839345606605
+    second: main-character@death-sheet_58
+  - first:
+      213: 3013400009066019271
+    second: main-character@death-sheet_59
+  - first:
+      213: -8330875088860369616
+    second: main-character@death-sheet_60
+  - first:
+      213: -1222316966327006831
+    second: main-character@death-sheet_61
+  - first:
+      213: 1058502959053768570
+    second: main-character@death-sheet_62
+  - first:
+      213: 7379525645330745677
+    second: main-character@death-sheet_63
+  - first:
+      213: 8594284829653237299
+    second: main-character@death-sheet_64
+  - first:
+      213: 569055187406493100
+    second: main-character@death-sheet_65
+  - first:
+      213: -6421480570953350363
+    second: main-character@death-sheet_66
+  - first:
+      213: 2591854368039799124
+    second: main-character@death-sheet_67
+  - first:
+      213: -9018044859262107475
+    second: main-character@death-sheet_68
+  - first:
+      213: 7158208418557205317
+    second: main-character@death-sheet_69
+  - first:
+      213: -4638678400118844446
+    second: main-character@death-sheet_70
+  - first:
+      213: 6141155998358028503
+    second: main-character@death-sheet_71
+  - first:
+      213: -2571714265185700517
+    second: main-character@death-sheet_72
+  - first:
+      213: 3695747284562022258
+    second: main-character@death-sheet_73
+  - first:
+      213: -3835983096641139608
+    second: main-character@death-sheet_74
+  - first:
+      213: -85605933599238422
+    second: main-character@death-sheet_75
+  - first:
+      213: 367454994623393388
+    second: main-character@death-sheet_76
+  - first:
+      213: 3007631921886622858
+    second: main-character@death-sheet_77
+  - first:
+      213: 4040534572332883483
+    second: main-character@death-sheet_78
+  - first:
+      213: 5204095806374325066
+    second: main-character@death-sheet_79
+  - first:
+      213: 8136981330795494183
+    second: main-character@death-sheet_80
+  - first:
+      213: -9142668452283195645
+    second: main-character@death-sheet_81
+  - first:
+      213: 3605218368893767282
+    second: main-character@death-sheet_82
+  - first:
+      213: -7427637854411916438
+    second: main-character@death-sheet_83
+  - first:
+      213: -7370155834122718729
+    second: main-character@death-sheet_84
+  - first:
+      213: 6376483204377860940
+    second: main-character@death-sheet_85
+  - first:
+      213: -5859706312395190567
+    second: main-character@death-sheet_86
+  - first:
+      213: -4830946208006340948
+    second: main-character@death-sheet_87
+  - first:
+      213: -6117939854781416189
+    second: main-character@death-sheet_88
+  - first:
+      213: -6334477696217131766
+    second: main-character@death-sheet_89
+  - first:
+      213: 7320210186170825511
+    second: main-character@death-sheet_90
+  - first:
+      213: 4642856190254570337
+    second: main-character@death-sheet_91
+  - first:
+      213: 2379165637013368811
+    second: main-character@death-sheet_92
+  - first:
+      213: -5310783097754950555
+    second: main-character@death-sheet_93
+  - first:
+      213: 8108577530741960859
+    second: main-character@death-sheet_94
+  - first:
+      213: -7733880566019793045
+    second: main-character@death-sheet_95
+  - first:
+      213: 3907687298270179944
+    second: main-character@death-sheet_96
+  - first:
+      213: 8373315733276652067
+    second: main-character@death-sheet_97
+  - first:
+      213: 8342600497657045443
+    second: main-character@death-sheet_98
+  - first:
+      213: 1156810084935896650
+    second: main-character@death-sheet_99
+  - first:
+      213: -6884702642205746210
+    second: main-character@death-sheet_100
+  - first:
+      213: -2440518588906061016
+    second: main-character@death-sheet_101
+  - first:
+      213: -4834800020602350018
+    second: main-character@death-sheet_102
+  - first:
+      213: 4968370658298942713
+    second: main-character@death-sheet_103
+  - first:
+      213: 3742234741361257761
+    second: main-character@death-sheet_104
+  - first:
+      213: 1254271988923685259
+    second: main-character@death-sheet_105
+  - first:
+      213: -2512872085120318508
+    second: main-character@death-sheet_106
+  - first:
+      213: -1298101794067247787
+    second: main-character@death-sheet_107
+  - first:
+      213: 1463037648521356219
+    second: main-character@death-sheet_108
+  - first:
+      213: -4951704422609682396
+    second: main-character@death-sheet_109
+  - first:
+      213: -4795895718355153811
+    second: main-character@death-sheet_110
+  - first:
+      213: 3554828319179651538
+    second: main-character@death-sheet_111
+  - first:
+      213: -4310413362428229743
+    second: main-character@death-sheet_112
+  - first:
+      213: -7068888825858883290
+    second: main-character@death-sheet_113
+  - first:
+      213: -2030046027059999637
+    second: main-character@death-sheet_114
+  - first:
+      213: 614411260880104845
+    second: main-character@death-sheet_115
+  - first:
+      213: 7788100199544763411
+    second: main-character@death-sheet_116
+  - first:
+      213: 1821551465635128784
+    second: main-character@death-sheet_117
+  - first:
+      213: 1125013443434993510
+    second: main-character@death-sheet_118
+  - first:
+      213: -8497514431640054064
+    second: main-character@death-sheet_119
+  - first:
+      213: -7836008557620056004
+    second: main-character@death-sheet_120
+  - first:
+      213: 3394118677317283219
+    second: main-character@death-sheet_121
+  - first:
+      213: 4486496444136374130
+    second: main-character@death-sheet_122
+  - first:
+      213: -69410912991014947
+    second: main-character@death-sheet_123
+  - first:
+      213: -3538405086490098496
+    second: main-character@death-sheet_124
+  - first:
+      213: -1181102063490178034
+    second: main-character@death-sheet_125
+  - first:
+      213: 7564302710199705479
+    second: main-character@death-sheet_126
+  - first:
+      213: -6423114182119045782
+    second: main-character@death-sheet_127
+  - first:
+      213: -6439886200703758644
+    second: main-character@death-sheet_128
+  - first:
+      213: -2303266730427408515
+    second: main-character@death-sheet_129
+  - first:
+      213: -3037117757468197379
+    second: main-character@death-sheet_130
+  - first:
+      213: -6257467590528511028
+    second: main-character@death-sheet_131
+  - first:
+      213: -357369333705320660
+    second: main-character@death-sheet_132
+  - first:
+      213: 4021184300337221637
+    second: main-character@death-sheet_133
+  - first:
+      213: -7458806073522746261
+    second: main-character@death-sheet_134
+  - first:
+      213: 2434080131363247915
+    second: main-character@death-sheet_135
+  - first:
+      213: 49023138992131091
+    second: main-character@death-sheet_136
+  - first:
+      213: 4811367180364783280
+    second: main-character@death-sheet_137
+  - first:
+      213: 1239023333277924497
+    second: main-character@death-sheet_138
+  - first:
+      213: -8558517059516418368
+    second: main-character@death-sheet_139
+  - first:
+      213: -8960023496473604500
+    second: main-character@death-sheet_140
+  - first:
+      213: -2439195909042555889
+    second: main-character@death-sheet_141
+  - first:
+      213: 1800983052033576571
+    second: main-character@death-sheet_142
+  - first:
+      213: -3600286974250798600
+    second: main-character@death-sheet_143
+  - first:
+      213: -330618787424561058
+    second: main-character@death-sheet_144
+  - first:
+      213: -403136139130025143
+    second: main-character@death-sheet_145
+  - first:
+      213: -1775209051169774401
+    second: main-character@death-sheet_146
+  - first:
+      213: -6723540325692422241
+    second: main-character@death-sheet_147
+  - first:
+      213: 4842879100603776593
+    second: main-character@death-sheet_148
+  - first:
+      213: 8355535372469673969
+    second: main-character@death-sheet_149
+  - first:
+      213: -8012417369317214330
+    second: main-character@death-sheet_150
+  - first:
+      213: -4339799969600796104
+    second: main-character@death-sheet_151
+  - first:
+      213: 4700689823500035108
+    second: main-character@death-sheet_152
+  - first:
+      213: 6217849489693750511
+    second: main-character@death-sheet_153
+  - first:
+      213: 3018568980166672777
+    second: main-character@death-sheet_154
+  - first:
+      213: 9083865598781369745
+    second: main-character@death-sheet_155
+  - first:
+      213: -7939134349890341901
+    second: main-character@death-sheet_156
+  - first:
+      213: -8543208334355076517
+    second: main-character@death-sheet_157
+  - first:
+      213: 6115528132943424694
+    second: main-character@death-sheet_158
+  - first:
+      213: -4724483356155738256
+    second: main-character@death-sheet_159
+  - first:
+      213: 3048885315103094170
+    second: main-character@death-sheet_160
+  - first:
+      213: -516025179623394426
+    second: main-character@death-sheet_161
+  - first:
+      213: -5515046096986519074
+    second: main-character@death-sheet_162
+  - first:
+      213: 7500167926968155524
+    second: main-character@death-sheet_163
+  - first:
+      213: 4063721482295957396
+    second: main-character@death-sheet_164
+  - first:
+      213: -1124740085368201592
+    second: main-character@death-sheet_165
+  - first:
+      213: -210865607122654
+    second: main-character@death-sheet_166
+  - first:
+      213: -3224532500442961161
+    second: main-character@death-sheet_167
+  - first:
+      213: 3035853195390853236
+    second: main-character@death-sheet_168
+  - first:
+      213: -6818073419829627318
+    second: main-character@death-sheet_169
+  - first:
+      213: 7360304636466049312
+    second: main-character@death-sheet_170
+  - first:
+      213: 2018384150643194843
+    second: main-character@death-sheet_171
+  - first:
+      213: 5518306532688836917
+    second: main-character@death-sheet_172
+  - first:
+      213: 7849171753211374933
+    second: main-character@death-sheet_173
+  - first:
+      213: -5825151994586850960
+    second: main-character@death-sheet_174
+  - first:
+      213: 6471059752330807319
+    second: main-character@death-sheet_175
+  - first:
+      213: -2287255541050704887
+    second: main-character@death-sheet_176
+  - first:
+      213: -7480061491321365286
+    second: main-character@death-sheet_177
+  - first:
+      213: -4951440123108524208
+    second: main-character@death-sheet_178
+  - first:
+      213: -7549423377387632826
+    second: main-character@death-sheet_179
+  - first:
+      213: -8576578434865067796
+    second: main-character@death-sheet_180
+  - first:
+      213: 4474518169695335501
+    second: main-character@death-sheet_181
+  - first:
+      213: 6247691915563722231
+    second: main-character@death-sheet_182
+  - first:
+      213: -1670473375457426549
+    second: main-character@death-sheet_183
+  - first:
+      213: -6028447412849059384
+    second: main-character@death-sheet_184
+  - first:
+      213: -626609878988787784
+    second: main-character@death-sheet_185
+  - first:
+      213: -4489182497642030015
+    second: main-character@death-sheet_186
+  - first:
+      213: 9061488853412084119
+    second: main-character@death-sheet_187
+  - first:
+      213: 1215511553767440233
+    second: main-character@death-sheet_188
+  - first:
+      213: 6552697510354641837
+    second: main-character@death-sheet_189
+  - first:
+      213: -7735341144135166442
+    second: main-character@death-sheet_190
+  - first:
+      213: 5359649813236827384
+    second: main-character@death-sheet_191
+  - first:
+      213: -1502351522523085538
+    second: main-character@death-sheet_192
+  - first:
+      213: -539656147969185570
+    second: main-character@death-sheet_193
+  - first:
+      213: -4828031814296502151
+    second: main-character@death-sheet_194
+  - first:
+      213: 4263459036348768031
+    second: main-character@death-sheet_195
+  - first:
+      213: -8164913353719226838
+    second: main-character@death-sheet_196
+  - first:
+      213: -5129141401375413514
+    second: main-character@death-sheet_197
+  - first:
+      213: 2557537594008285285
+    second: main-character@death-sheet_198
+  - first:
+      213: -46334358016202440
+    second: main-character@death-sheet_199
+  - first:
+      213: 4384304679577605293
+    second: main-character@death-sheet_200
+  - first:
+      213: -4553283087285164969
+    second: main-character@death-sheet_201
+  - first:
+      213: -8935000590824467625
+    second: main-character@death-sheet_202
+  - first:
+      213: 3891659560468534538
+    second: main-character@death-sheet_203
+  - first:
+      213: -8044143532920243227
+    second: main-character@death-sheet_204
+  - first:
+      213: -1328894264916075688
+    second: main-character@death-sheet_205
+  - first:
+      213: 4496462281211719791
+    second: main-character@death-sheet_206
+  - first:
+      213: 15640524101695172
+    second: main-character@death-sheet_207
+  - first:
+      213: 8032081276407008362
+    second: main-character@death-sheet_208
+  - first:
+      213: -1004684029247703318
+    second: main-character@death-sheet_209
+  - first:
+      213: -8762141411913006060
+    second: main-character@death-sheet_210
+  - first:
+      213: -2753783244209122325
+    second: main-character@death-sheet_211
+  - first:
+      213: 4827662337976402032
+    second: main-character@death-sheet_212
+  - first:
+      213: 8160721303495358101
+    second: main-character@death-sheet_213
+  - first:
+      213: -5976647089716765061
+    second: main-character@death-sheet_214
+  - first:
+      213: 7335505867479394266
+    second: main-character@death-sheet_215
+  - first:
+      213: 8005350830233855311
+    second: main-character@death-sheet_216
+  - first:
+      213: -8720470268830013746
+    second: main-character@death-sheet_217
+  - first:
+      213: -4702696197420424187
+    second: main-character@death-sheet_218
+  - first:
+      213: -5066138382236575399
+    second: main-character@death-sheet_219
+  - first:
+      213: 8322523563095279795
+    second: main-character@death-sheet_220
+  - first:
+      213: -4054013538160356429
+    second: main-character@death-sheet_221
+  - first:
+      213: 1927544096495025071
+    second: main-character@death-sheet_222
+  - first:
+      213: 5596436167977103664
+    second: main-character@death-sheet_223
+  - first:
+      213: -8256247283569348092
+    second: main-character@death-sheet_224
+  - first:
+      213: -9172020874864431339
+    second: main-character@death-sheet_225
+  - first:
+      213: 1834380321725829482
+    second: main-character@death-sheet_226
+  - first:
+      213: 1809369602923831456
+    second: main-character@death-sheet_227
+  - first:
+      213: -5508656151740926998
+    second: main-character@death-sheet_228
+  - first:
+      213: 844673171040029983
+    second: main-character@death-sheet_229
+  - first:
+      213: -1661093397911213870
+    second: main-character@death-sheet_230
+  - first:
+      213: 5214006923045228512
+    second: main-character@death-sheet_231
+  - first:
+      213: -2511563245113344614
+    second: main-character@death-sheet_232
+  - first:
+      213: -7458700915165764722
+    second: main-character@death-sheet_233
+  - first:
+      213: 6349765442323254861
+    second: main-character@death-sheet_234
+  - first:
+      213: -5138879352431070848
+    second: main-character@death-sheet_235
+  - first:
+      213: 5380415107893498192
+    second: main-character@death-sheet_236
+  - first:
+      213: -3528827895641975130
+    second: main-character@death-sheet_237
+  - first:
+      213: -1917693582669316921
+    second: main-character@death-sheet_238
+  - first:
+      213: -4523479085240863829
+    second: main-character@death-sheet_239
+  - first:
+      213: 2384805117669689633
+    second: main-character@death-sheet_240
+  - first:
+      213: -7493400209065639586
+    second: main-character@death-sheet_241
+  - first:
+      213: 184438573853504532
+    second: main-character@death-sheet_242
+  - first:
+      213: 7707008856608307209
+    second: main-character@death-sheet_243
+  - first:
+      213: 1879081362022108952
+    second: main-character@death-sheet_244
+  - first:
+      213: -6325469346975194623
+    second: main-character@death-sheet_245
+  - first:
+      213: -5916110659133352351
+    second: main-character@death-sheet_246
+  - first:
+      213: 7360863984613508679
+    second: main-character@death-sheet_247
+  - first:
+      213: -5574141220793847847
+    second: main-character@death-sheet_248
+  - first:
+      213: -5199412522912575937
+    second: main-character@death-sheet_249
+  - first:
+      213: 1563167048885691495
+    second: main-character@death-sheet_250
+  - first:
+      213: -5181730945872637000
+    second: main-character@death-sheet_251
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main-character@death-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b487603b2df1f0800000000000000
+      internalID: -1009603254565949271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e548cdf3c7dfc3730800000000000000
+      internalID: 3980334880777864286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9435957c96129b80800000000000000
+      internalID: -8389618294594390886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fffb6b69d5a6fb0800000000000000
+      internalID: -4653804363041472631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ed5ac222a9aefe0800000000000000
+      internalID: -1158944482525847955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1c27b2ce2c342e0800000000000000
+      internalID: -2142654678101212717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12748e53e27dfef0800000000000000
+      internalID: -72775698099178978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f5794094eca7e0800000000000000
+      internalID: -1752774846595074059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a4eb7465cbc9400800000000000000
+      internalID: 332347551275436549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ad9674745b9790800000000000000
+      internalID: -7522325893409299008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60161409e65af6720800000000000000
+      internalID: 2841671784179261702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a00e1dfc9fc11260800000000000000
+      internalID: 7066657563489468580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8abf6a892544e400800000000000000
+      internalID: 352482715560295052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00250d5dc32c78d0800000000000000
+      internalID: -2847361499469111283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108440de885f54130800000000000000
+      internalID: 3550513849692342273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8b101c0eecacdb0800000000000000
+      internalID: -4770773390539507512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c235801b9f2b5900800000000000000
+      internalID: 674184912265622208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ddebd158ed864b0800000000000000
+      internalID: -5446859085993550488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541a26d8d1092df80800000000000000
+      internalID: -8083239924576116411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed3f23ca61996240800000000000000
+      internalID: 4785515966785076713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0967c997002b78290800000000000000
+      internalID: -7888140507206093168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc33693727bbe010800000000000000
+      internalID: 1219269503228263647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b948cff2e33b030800000000000000
+      internalID: 3509216910472682304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8065a81a179040cd0800000000000000
+      internalID: -2592937101812410872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0804326baaeee3920800000000000000
+      internalID: 2972075221078720640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6104dafd01a5b0800000000000000
+      internalID: -5358986710644331107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ac83ba62696210800000000000000
+      internalID: 1326699775655715113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a387456d22e7340800000000000000
+      internalID: 4863362951542225544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617cee3c12c8f780800000000000000
+      internalID: -8648949657794481824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf90cf027e8a740800000000000000
+      internalID: 5163631101633756283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a8633f620c55c30800000000000000
+      internalID: 4347592288817809946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4bd4c844b316100800000000000000
+      internalID: 99425832376579298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e62e15ffd42c930800000000000000
+      internalID: 4161974764629552653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054213a4bfaa84520800000000000000
+      internalID: 2686585173984748624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb711ab61370b4650800000000000000
+      internalID: 6218071619355613115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main-character@death-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503697aac2b4085a0800000000000000
+      internalID: -6521129605221752059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
