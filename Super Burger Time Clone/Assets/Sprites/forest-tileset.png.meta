@@ -60,7 +60,7 @@ TextureImporter:
       213: -6013336596539733973
     second: forest-tileset_18
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -81,6 +81,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -90,8 +91,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -112,11 +113,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -144,6 +148,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 4
@@ -566,6 +582,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      forest-tileset_18: -6013336596539733973
+      forest-tileset_8: -831058336845026066
+      forest-tileset_6: -6269481069272209841
+      forest-tileset_17: -3143610760960377732
+      forest-tileset_9: 8229613649026957826
+      forest-tileset_10: 7918090638806923186
+      forest-tileset_13: -6777834517862834274
+      forest-tileset_16: 5281083985032384995
+      forest-tileset_2: 558698561879994226
+      forest-tileset_12: 8669889937632112000
+      forest-tileset_1: -1175587160394506427
+      forest-tileset_14: 6621103325851458087
+      forest-tileset_5: 4411571782109379972
+      forest-tileset_15: -9208459300645324491
+      forest-tileset_11: -2281438511152536220
+      forest-tileset_4: 7496099870936470569
+      forest-tileset_3: 9129609060331379992
+      forest-tileset_7: 2526899054932758404
+      forest-tileset_0: -7386567080407117901
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

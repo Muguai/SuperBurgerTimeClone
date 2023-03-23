@@ -759,7 +759,7 @@ TextureImporter:
       213: -5181730945872637000
     second: main-character@death-sheet_251
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -780,6 +780,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -789,8 +790,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -811,11 +812,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -843,6 +847,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 4
@@ -1622,6 +1638,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      main-character@death-sheet_6: -72775698099178978
+      main-character@death-sheet_2: -8389618294594390886
+      main-character@death-sheet_22: 3509216910472682304
+      main-character@death-sheet_12: 352482715560295052
+      main-character@death-sheet_23: -2592937101812410872
+      main-character@death-sheet_1: 3980334880777864286
+      main-character@death-sheet_21: 1219269503228263647
+      main-character@death-sheet_11: 7066657563489468580
+      main-character@death-sheet_18: -8083239924576116411
+      main-character@death-sheet_7: -1752774846595074059
+      main-character@death-sheet_17: -5446859085993550488
+      main-character@death-sheet_16: 674184912265622208
+      main-character@death-sheet_26: 1326699775655715113
+      main-character@death-sheet_5: -2142654678101212717
+      main-character@death-sheet_33: 2686585173984748624
+      main-character@death-sheet_19: 4785515966785076713
+      main-character@death-sheet_20: -7888140507206093168
+      main-character@death-sheet_8: 332347551275436549
+      main-character@death-sheet_13: -2847361499469111283
+      main-character@death-sheet_14: 3550513849692342273
+      main-character@death-sheet_32: 4161974764629552653
+      main-character@death-sheet_4: -1158944482525847955
+      main-character@death-sheet_29: 5163631101633756283
+      main-character@death-sheet_30: 4347592288817809946
+      main-character@death-sheet_0: -1009603254565949271
+      main-character@death-sheet_24: 2972075221078720640
+      main-character@death-sheet_10: 2841671784179261702
+      main-character@death-sheet_3: -4653804363041472631
+      main-character@death-sheet_25: -5358986710644331107
+      main-character@death-sheet_9: -7522325893409299008
+      main-character@death-sheet_15: -4770773390539507512
+      main-character@death-sheet_35: -6521129605221752059
+      main-character@death-sheet_27: 4863362951542225544
+      main-character@death-sheet_34: 6218071619355613115
+      main-character@death-sheet_28: -8648949657794481824
+      main-character@death-sheet_31: 99425832376579298
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

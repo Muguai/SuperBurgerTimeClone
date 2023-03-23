@@ -66,7 +66,7 @@ TextureImporter:
       213: 4796243490475884081
     second: main-character@pick-up-sheet_20
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -87,6 +87,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -96,8 +97,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -118,11 +119,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -150,6 +154,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 4
@@ -614,6 +630,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      main-character@pick-up-sheet_16: 3155750785591233077
+      main-character@pick-up-sheet_20: 4796243490475884081
+      main-character@pick-up-sheet_7: 1297218033999618499
+      main-character@pick-up-sheet_3: -6587340279416128208
+      main-character@pick-up-sheet_8: 7193698624026025103
+      main-character@pick-up-sheet_10: 3397410110776200798
+      main-character@pick-up-sheet_13: -5075559473200839030
+      main-character@pick-up-sheet_14: -5635464766523809155
+      main-character@pick-up-sheet_4: 5499758996164555522
+      main-character@pick-up-sheet_6: 261809647994704518
+      main-character@pick-up-sheet_1: -2480646409102002123
+      main-character@pick-up-sheet_11: -2037479258371855795
+      main-character@pick-up-sheet_2: 141894431370434132
+      main-character@pick-up-sheet_5: -6719364167745764678
+      main-character@pick-up-sheet_15: -7832867909539303094
+      main-character@pick-up-sheet_19: 8912248493736369740
+      main-character@pick-up-sheet_12: -5822415150649773501
+      main-character@pick-up-sheet_17: -6290334883468659711
+      main-character@pick-up-sheet_0: 1149248004428148950
+      main-character@pick-up-sheet_18: -6389844367186629015
+      main-character@pick-up-sheet_9: -7819281529291649434
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

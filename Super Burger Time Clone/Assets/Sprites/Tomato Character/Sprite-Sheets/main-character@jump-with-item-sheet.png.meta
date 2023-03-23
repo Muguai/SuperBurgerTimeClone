@@ -42,7 +42,7 @@ TextureImporter:
       213: 8665199512307273420
     second: main-character@jump-with-item-sheet_12
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,6 +63,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -72,8 +73,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -94,11 +95,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -126,6 +130,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 4
@@ -422,6 +438,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      main-character@jump-with-item-sheet_12: 8665199512307273420
+      main-character@jump-with-item-sheet_4: 8483004263876821793
+      main-character@jump-with-item-sheet_2: 880405356219544658
+      main-character@jump-with-item-sheet_0: 1411314267141975538
+      main-character@jump-with-item-sheet_5: 4903987654858833773
+      main-character@jump-with-item-sheet_10: -9043389498648141337
+      main-character@jump-with-item-sheet_1: -3545172486061318752
+      main-character@jump-with-item-sheet_9: 7379961049071238048
+      main-character@jump-with-item-sheet_3: -70034012869741896
+      main-character@jump-with-item-sheet_7: 7612649860555397413
+      main-character@jump-with-item-sheet_11: 2997344345522940412
+      main-character@jump-with-item-sheet_6: -905950685247389437
+      main-character@jump-with-item-sheet_8: -2050524966200279794
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

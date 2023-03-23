@@ -75,7 +75,7 @@ TextureImporter:
       213: 666901700588359045
     second: main-character@idle-with-item-sheet_23
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -105,8 +106,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -127,11 +128,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -159,6 +163,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 4
@@ -686,6 +702,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      main-character@idle-with-item-sheet_20: -5131308765678861095
+      main-character@idle-with-item-sheet_22: 8151458472154314990
+      main-character@idle-with-item-sheet_18: -1633049252056375939
+      main-character@idle-with-item-sheet_17: 4241290471143284048
+      main-character@idle-with-item-sheet_11: -6284480092028882842
+      main-character@idle-with-item-sheet_2: -8666144246401605877
+      main-character@idle-with-item-sheet_16: 5976907607870928945
+      main-character@idle-with-item-sheet_6: -266340467717444282
+      main-character@idle-with-item-sheet_23: 666901700588359045
+      main-character@idle-with-item-sheet_12: -2364182278191500440
+      main-character@idle-with-item-sheet_10: -2801814345661679055
+      main-character@idle-with-item-sheet_15: -6892204816397757886
+      main-character@idle-with-item-sheet_4: -5401265861333771675
+      main-character@idle-with-item-sheet_0: -5179007766554473248
+      main-character@idle-with-item-sheet_19: 6801650844618216153
+      main-character@idle-with-item-sheet_7: 2868619631918477840
+      main-character@idle-with-item-sheet_9: -3567095471071580077
+      main-character@idle-with-item-sheet_5: 422568580359557933
+      main-character@idle-with-item-sheet_14: 2783038781116991911
+      main-character@idle-with-item-sheet_3: 8073713322438249186
+      main-character@idle-with-item-sheet_8: 5574294409087200575
+      main-character@idle-with-item-sheet_21: 8037999503859157288
+      main-character@idle-with-item-sheet_1: 864099042388955335
+      main-character@idle-with-item-sheet_13: -5637367057323637191
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

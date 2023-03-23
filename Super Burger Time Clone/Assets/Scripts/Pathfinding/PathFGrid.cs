@@ -108,4 +108,35 @@ public class PathFGrid : MonoBehaviour
 
         }
     }
+
+    void OnDrawGizmos()
+    {
+        Gizmos.DrawWireCube(transform.position, new Vector2(gridWorldSize.x, gridWorldSize.y));
+
+        if(grid != null)
+        {
+            PathFNode playerNode = NodeFromWorldPoint((Vector2)player.position);
+            foreach (PathFNode n in grid)
+            {
+                Gizmos.color = (n.walkable) ? Color.white : Color.red;
+
+                if (path != null)
+                {
+
+                    if (path.Contains(n))
+                    {
+                        //Debug.Log("Path");
+
+                        Gizmos.color = Color.green;
+                    }
+                }
+                if(playerNode.worldPosition == n.worldPosition)
+                {
+                    Gizmos.color = Color.cyan;
+                }
+                Gizmos.DrawCube(n.worldPosition, Vector2.one * (nodeDiameter - spaceBetweenNodes));
+            }
+
+        }
+    }
 }

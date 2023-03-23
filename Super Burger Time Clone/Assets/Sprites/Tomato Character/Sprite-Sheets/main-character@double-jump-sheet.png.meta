@@ -66,7 +66,7 @@ TextureImporter:
       213: -71253054572333233
     second: main-character@double-jump-sheet_20
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -87,6 +87,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -96,8 +97,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -118,11 +119,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -150,6 +154,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 4
@@ -614,6 +630,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      main-character@double-jump-sheet_14: -8055704197121089484
+      main-character@double-jump-sheet_5: 4483414489605345591
+      main-character@double-jump-sheet_17: 3546704576404201831
+      main-character@double-jump-sheet_7: -4358556472311593455
+      main-character@double-jump-sheet_1: -1353605282414449863
+      main-character@double-jump-sheet_11: 6668850051821732927
+      main-character@double-jump-sheet_12: -4310438097113054492
+      main-character@double-jump-sheet_4: -2697238276618224552
+      main-character@double-jump-sheet_6: -2872347590941973137
+      main-character@double-jump-sheet_15: 7504133234145249953
+      main-character@double-jump-sheet_0: -3844452470525207919
+      main-character@double-jump-sheet_13: -3718772442446467083
+      main-character@double-jump-sheet_2: 6760150450922370825
+      main-character@double-jump-sheet_16: 3408529808294273572
+      main-character@double-jump-sheet_20: -71253054572333233
+      main-character@double-jump-sheet_8: -133688741945798231
+      main-character@double-jump-sheet_18: 4093557707180761054
+      main-character@double-jump-sheet_10: 8595203388145906674
+      main-character@double-jump-sheet_19: 8561428398650939171
+      main-character@double-jump-sheet_3: -6688443032608511784
+      main-character@double-jump-sheet_9: 324388601548508615
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
